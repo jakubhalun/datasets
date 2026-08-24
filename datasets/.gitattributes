@@ -1,0 +1,2 @@
+# The published databases are binary; never let Git rewrite their bytes.
+*.db binary
